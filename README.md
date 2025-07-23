@@ -2,7 +2,7 @@
 
 I'm **Carlos Flores 🇵🇪 | Backend Developer**
 
-- 🔭 Focused on backend projects using **Java Spring Boot**, **Node.js**, **Docker**, and **Redis**
+- 🔭 Focused on backend projects using **Java Spring Boot**, **Node.js** and **Redis**
 - 📡 Experienced in building **RESTful APIs** following **SOLID** principles and best practices
 - 🧪 Interested in automated testing, security, and scalable distributed systems
 - 🚀 Currently learning more about **Docker**, **AWS**, **GitHub Actions**, and CI/CD pipelines
@@ -21,7 +21,6 @@ I'm **Carlos Flores 🇵🇪 | Backend Developer**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![ELK Stack](https://img.shields.io/badge/ELK-black?style=flat-square&logo=elasticstack&logoColor=white)
 
 ---
